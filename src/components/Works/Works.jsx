@@ -4,7 +4,7 @@ import ATT from "../../img/ATT.png";
 import Neo from "../../img/neo.png";
 import ineuron from "../../img/ineuron.png";
 import LG from "../../img/LG.png";
-import GeekyAnts from "../../img/geekyants.png";
+import GeekyAnts from "../../img/solifi.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
 import {Link} from 'react-scroll'

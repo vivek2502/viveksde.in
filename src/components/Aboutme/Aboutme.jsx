@@ -11,9 +11,21 @@ const Aboutme = () => {
     {
       // img: LGlogo,
       button: 
+        <button className="button n-button">Solifi</button>,
+      about:
+        "Currently, I am working as a Software Engineer @Solifi. I am having a total 3+ years of experience in software development. Moreover, I have knowledge in Java frameworks and Blockchain Technolgy.",
+    
+      },
+    {
+      button: 
         <button className="button n-button">LG Soft India</button>,
       about:
-        "Currently, I am working as a Research Engineer at LG Soft India R&D LAB. I am having a total 2.6+ years of experience in software development. Moreover, I have knowledge in Java frameworks and Blockchain Technolgy.",
+      <text>
+          Project   : ATT FOTA DM <br />
+          Technolgy : Java & Android <br />
+          Year      : Jan 2020 – Sep 2022 <br />
+          Address   : Banglore - Karnataka (India)<br />
+          </text>
     },
     {
       button: 
